@@ -1,0 +1,308 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Work Sans", sans-serif;
+  color: #4A4A4A;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+.top-seprates {
+  padding-top: 70px;
+}
+
+.home-top-seprates {
+  padding-top: 40px;
+}
+
+.thinner-header {
+  font-weight: 600;
+  padding-top: 0px;
+}
+
+.header{
+  position: fixed;
+  margin-bottom: 0;
+  z-index: 1001;
+  background-color: #fff;
+}
+
+.bg-color-sky-light {
+  background: #FCFAFA;
+}
+
+.top-padding-only {
+  padding-bottom: 0 !important;
+}
+
+.content-md {
+  padding-bottom: 60px;
+}
+
+
+.name-title {
+  font-family: "Work Sans", sans-serif;
+  color: #1A1A1A;
+  font-weight: 700;
+  font-size: 19px;
+  margin-bottom: 0.2em;
+}
+
+.img-group {
+	display: block;
+	height: 380px;
+}
+
+
+.title-seprates {
+  margin-top: 40px;
+}
+
+
+.carouselHeight {
+	height: 500px;
+}
+
+
+.sidebar-wrap {
+  max-width: 300px;
+  height: 100%;
+  overflow-x: auto;
+  direction: rtl;
+  padding-top: 45px;
+  padding-left: 0;
+}
+
+@media (max-width: 768px) {
+  .sm-margin-b-0 {
+    margin-bottom: 0 !important;
+  }
+  .sm-margin-b-5 {
+    margin-bottom: 5px !important;
+  }
+  .sm-margin-b-10 {
+    margin-bottom: 10px !important;
+  }
+  .sm-margin-b-20 {
+    margin-bottom: 20px !important;
+  }
+  .sm-margin-b-30 {
+    margin-bottom: 30px !important;
+  }
+  .sm-margin-b-40 {
+    margin-bottom: 40px !important;
+  }
+  .sm-margin-b-50 {
+    margin-bottom: 50px !important;
+  }
+  .sm-margin-b-60 {
+    margin-bottom: 60px !important;
+  }
+  .sm-margin-b-70 {
+    margin-bottom: 70px !important;
+  }
+  .sm-margin-b-80 {
+    margin-bottom: 80px !important;
+  }
+  .sm-margin-b-90 {
+    margin-bottom: 90px !important;
+  }
+  .sm-margin-b-100 {
+    margin-bottom: 100px !important;
+  }
+}
+
+.sidebar-wrap {
+  max-width: 300px;
+  height: 100%;
+  overflow-x: auto;
+  direction: rtl;
+  padding-top: 45px;
+  padding-left: 0;
+}
+
+@media screen and (min-width: 991px) {
+  .sidebar-wrap {
+    position: fixed;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .list-unstyled {
+    text-align: left;
+    padding-left: 25px;
+  }
+}
+
+.side-nav {
+  padding: 0.4em;
+}
+
+.side-nav label {
+  margin: 0;
+}
+
+.side-nav input[type="radio"] {
+  display: none;
+}
+
+.side-nav input[type="radio"] + div {
+  font-weight: 400;
+}
+
+.side-nav input[type="radio"]:checked + div {
+  width: 100%;
+  color: #B1060E;
+  font-weight: 400;
+}
+
+.sidenav-position {
+  margin-top: 2em;
+  /*    border-right: 1px solid #f1f1f1; */
+}
+
+
+.content {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.content-p {
+  padding-top: 0px;
+  padding-bottom: 40px;
+}
+
+.content-sm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.content-md {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.content-lg {
+  padding-top: 160px;
+  padding-bottom: 100px;
+}
+
+.content-main {
+  padding-top: 20px;
+  top: -25px;
+}
+
+.people-image {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.people-profile-image {
+  height: 200px;
+  padding-bottom: 1em;
+  padding-top: 1.5em;
+}
+
+.people-profile-card-w-img {
+  height: 280px;
+}
+
+.link-sytle {
+  color: #B1060E;
+}
+
+.content-footer {
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: white;
+  z-index: 2;
+}
+
+.content-padding {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+@media screen and (min-width: 991px) {
+  #content {
+    left: 300px;
+  }
+}
+
+.content-wrapper-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  z-index: 3;
+  text-decoration: none;
+}
+
+.margin-r-0 {
+  margin-right: 0 !important;
+}
+
+.margin-r-5 {
+  margin-right: 5px !important;
+}
+
+.margin-r-10 {
+  margin-right: 10px !important;
+}
+
+.margin-r-20 {
+  margin-right: 20px !important;
+}
+
+.color-base {
+  color: #BD1A22;
+}
+
+.h2-p {
+  padding-top: 1.8em;
+  font-weight: 600;
+  color: #5f2c1a;
+}
+
+a {
+  font-family: "Work Sans", sans-serif;
+  color: #543454;
+  outline: 0;
+}
+
+a:focus, a:hover, a:active {
+  outline: 0;
+  color: #999caa;
+  text-decoration: none;
+}
+
+
+.line-h {
+	line-height: 2.2;
+}
+
+.margin-10 {
+	margin-bottom: 20px;
+}
+
+
+ol.v {
+	list-style-type:disc;
+	font-size: 14px;
+}
+
+.patens-color {
+	color: #646464;
+}
+
+.in-trans {
+	opacity:0.4;
+}
