@@ -209,7 +209,8 @@ p {
 }
 
 .people-profile-card-w-img {
-  height: 280px;
+  height: 60px;
+  margin-top: 10px;
 }
 
 .link-sytle {
@@ -305,4 +306,20 @@ ol.v {
 
 .in-trans {
 	opacity:0.4;
+}
+
+.title-right {
+	text-align:right;
+}
+
+.pic-seprates {
+	padding-top: 60px;
+}
+
+.ti-top {
+	margin-top: 80px;
+}
+
+.font-m {
+	text-align:justify;
 }
