@@ -1,6 +1,6 @@
 body {
   font-family: "Work Sans", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 p {
@@ -13,7 +13,7 @@ p {
 }
 
 .top-seprates {
-  padding-top: 70px;
+  padding-top: 100px;
 }
 
 .home-top-seprates {
@@ -25,6 +25,11 @@ p {
   padding-top: 0px;
 }
 
+.header-s {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .header{
   position: fixed;
   margin-bottom: 0;
@@ -34,6 +39,10 @@ p {
 
 .bg-color-sky-light {
   background: #FCFAFA;
+}
+
+.bg-color-sky-light1 {
+  background: #f5f5f5;
 }
 
 .top-padding-only {
@@ -63,6 +72,34 @@ p {
   margin-top: 40px;
 }
 
+.k-r {
+	margin-top: 10px;
+	margin-left: 60px;
+}
+
+.p-r {
+	padding: 15px;
+}
+
+.content-l {
+	margin-left: 150px;
+}
+
+.title-s {
+	margin-top: 50px;
+	line-height: 1;
+}
+
+.p-l {
+	margin-left: 10px;
+}
+
+.li-s {
+	padding-top: 10px;
+	border-top:1px solid silver;
+	padding-bottom: 10px;
+	border-bottom:1px solid silver;
+}
 
 .carouselHeight {
 	height: 500px;
@@ -168,8 +205,8 @@ p {
 
 
 .content {
-  padding-top: 60px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .content-p {
@@ -274,7 +311,7 @@ p {
 
 a {
   font-family: "Work Sans", sans-serif;
-  color: #543454;
+  color: #333;
   outline: 0;
 }
 
@@ -316,7 +353,11 @@ ol.v {
 }
 
 .ti-top {
-	margin-top: 80px;
+	margin-top: 82px;
+}
+
+.pic-m {
+	height: 300px;
 }
 
 .font-m {
