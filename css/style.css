@@ -74,6 +74,7 @@ p {
   font-weight: 700;
   font-size: 19px;
   margin-bottom: 0.2em;
+  text-align:center;
 }
 
 .img-group {
@@ -259,17 +260,22 @@ p {
 }
 
 .people-profile-image {
-  height: 200px;
-  padding-bottom: 1em;
-  padding-top: 1.5em;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 10px;
 }
 
 .people-profile-card-w-img {
-  height: 280px;
+  height: 230px;
+  width: 150px;
 }
 
 .link-sytle {
   color: #B1060E;
+}
+
+.link-style-c {
+	text-align:center;
 }
 
 .ho-m {
