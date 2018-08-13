@@ -281,6 +281,14 @@ p {
   width: 150px;
 }
 
+.pic-n {
+	margin: 5px;
+}
+
+.pic-h {
+	height: 200px;
+}
+
 .link-sytle {
   color: #B1060E;
 }
